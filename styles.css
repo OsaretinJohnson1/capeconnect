@@ -1,0 +1,60 @@
+/* ==========================================
+   STYLES.CSS
+   This file controls how our page LOOKS.
+   index.html controls STRUCTURE and CONTENT.
+   ========================================== */
+
+   .about-us{
+color: #000;
+
+   }
+
+   
+   .card {
+    color: blue;
+    font
+   }
+
+/* This changes the appearance of the whole page */
+body {
+    background-color: pink;
+    color: purple;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 50px;
+}
+
+/* This styles our main heading */
+h1 {
+    color: greenyellow;
+    font-size: 60px;
+}
+
+.about-me {
+    color:blue;
+
+}
+
+/* This styles our section headings */
+h2 {
+    color: orange;
+    font-size: 24px;
+}
+
+/* This styles our normal paragraph text */
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+/* This styles our links */
+a {
+    color: orangered;
+}
+
+/* This styles our image */
+img {
+    width: 200px;
+    border-radius: 12px;
+    padding: 5px;
+}
